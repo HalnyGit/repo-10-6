@@ -1,0 +1,20 @@
+/* Zadanie 10.6 Tablica Kanban */
+
+body {
+	background-color: #f0eeb2;
+}
+
+h1,
+.btn-main {
+	text-align: center;
+}
+
+.column-container {
+	display: flex;
+	justify-content: space-around;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0;
+}
